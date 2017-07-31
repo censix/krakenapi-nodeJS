@@ -1,2 +1,3 @@
-This strategy uses R for calculating a price prediction based on randomForest.
-The R script is only included with the "Live Version", not in this "Alpha Version" and not in the "Beta Version".
+This strategy uses R for calculating a price prediction based on a randomForestmodel.
+
+The R script is included with the "Live Version". It is not included in this "Alpha Version" or the "Beta Version".
